@@ -232,6 +232,8 @@ input {
 h1 {
   padding-bottom: 20px;
   color: #53787d;
+  font-size: 1.6em;
+  line-height: 1em;
 }
 
 p {
