@@ -203,7 +203,7 @@ label {
   display: block;
   text-align: center;
   padding: 10px 0px 10px;
-  color: rgb(237, 237, 237);
+  color: #53787d;
 }
 
 /* ===== LAYOUT STYLES ====== */
@@ -226,10 +226,16 @@ input {
   height: 50px;
   width: 150px;
   padding: 10px 0px 0px;
+  color: #53787d;;
 }
 
 h1 {
   padding-bottom: 20px;
+  color: #53787d;
+}
+
+p {
+  color: #53787d;
 }
 
 /* ===== MODULAR STYLES ===== */
